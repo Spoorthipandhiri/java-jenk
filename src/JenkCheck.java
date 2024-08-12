@@ -1,3 +1,5 @@
+
+pacakge com.example;
 class JenkCheck{
 public static void main(String args[])
 {

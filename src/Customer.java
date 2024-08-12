@@ -1,3 +1,4 @@
+package com.example;
 import java.util.Objects;
 
 public class Customer implements Comparable<Customer> {
